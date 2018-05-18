@@ -1,0 +1,20 @@
+{
+  "name": "Express-First",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "joi": "^13.3.0",
+    "jquery": "^3.3.1"
+  }
+}
