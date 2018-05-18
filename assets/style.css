@@ -250,3 +250,12 @@ body
     border-radius: 10px;
     background: #33CBCC;
 }
+
+.comming-soon
+{
+    text-transform: uppercase;
+    text-align: -webkit-center;
+    margin: auto;
+    padding: 100px;
+    font-size: 25px;
+}
